@@ -7,7 +7,7 @@ export const story = {
   songTitle: "our little soundtrack",
   songFile: "/music/backsound.mp3", // Letakkan file musik legal milikmu di folder public, lalu ubah nama di sini.
   videoFile: "/videos/video.mp4", // Isi dengan "/video-kita.mp4" setelah file diletakkan di public.
-  videoPoster: "/photos/Cover.jpg",
+  videoPoster: "/photos/foto0.jpg",
   intro:
     "Ada satu hari dalam setahun yang selalu terasa sedikit lebih hangat. Bukan karena cuacanya, tapi karena dunia pernah menghadirkan kamu.",
   letter: `Hai, kamu.\n\nKalau aku bisa membungkus semua hal baik yang kamu kasih ke hidupku, mungkin kotak kecil ini nggak akan pernah cukup besar. Jadi untuk hari ini, aku cuma mau kasih sesuatu yang sederhana: waktu, cerita, dan beberapa alasan kenapa kamu begitu berarti.\n\nTerima kasih sudah jadi tempat pulang yang menyenangkan, bahkan di hari-hari yang berantakan. Semoga umur yang baru membawa lebih banyak hal yang bikin kamu tersenyum, lebih banyak keberanian untuk mengejar yang kamu mau, dan lebih banyak alasan untuk bangga pada diri sendiri.\n\nAku nggak janji setiap hari akan selalu mudah. Tapi aku ingin tetap ada, ikut merayakan hal-hal kecil, mendengarkan ceritamu, dan mengingatkan kamu bahwa kamu layak mendapat banyak hal baik.\n\nSelamat ulang tahun, sayang. Hari ini milikmu. Semoga kamu selalu merasa dicintai — bukan cuma hari ini, tapi juga di hari-hari biasa yang sering terlupakan.`,
@@ -36,7 +36,7 @@ export const story = {
   ],
   photos: [
     {
-      src: "/photos/Cover.jpg",
+      src: "/photos/foto0.jpg",
       caption: "Little me, timeless memories",
       date: "01 / Little Moments",
     },

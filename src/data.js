@@ -5,9 +5,9 @@ export const story = {
   birthdayDate: "Hari yang paling kamu tunggu",
   birthdayISO: "2026-10-31T00:00:00", // Format opsional: "2026-11-14T00:00:00"
   songTitle: "our little soundtrack",
-  songFile: "/src/public/music/backsound.mp3", // Letakkan file musik legal milikmu di folder public, lalu ubah nama di sini.
-  videoFile: "/src/public/videos/video.mp4", // Isi dengan "/video-kita.mp4" setelah file diletakkan di public.
-  videoPoster: "/src/public/photos/cover.jpg",
+  songFile: "/music/backsound.mp3", // Letakkan file musik legal milikmu di folder public, lalu ubah nama di sini.
+  videoFile: "/videos/video.mp4", // Isi dengan "/video-kita.mp4" setelah file diletakkan di public.
+  videoPoster: "/photos/cover.jpg",
   intro:
     "Ada satu hari dalam setahun yang selalu terasa sedikit lebih hangat. Bukan karena cuacanya, tapi karena dunia pernah menghadirkan kamu.",
   letter: `Hai, kamu.\n\nKalau aku bisa membungkus semua hal baik yang kamu kasih ke hidupku, mungkin kotak kecil ini nggak akan pernah cukup besar. Jadi untuk hari ini, aku cuma mau kasih sesuatu yang sederhana: waktu, cerita, dan beberapa alasan kenapa kamu begitu berarti.\n\nTerima kasih sudah jadi tempat pulang yang menyenangkan, bahkan di hari-hari yang berantakan. Semoga umur yang baru membawa lebih banyak hal yang bikin kamu tersenyum, lebih banyak keberanian untuk mengejar yang kamu mau, dan lebih banyak alasan untuk bangga pada diri sendiri.\n\nAku nggak janji setiap hari akan selalu mudah. Tapi aku ingin tetap ada, ikut merayakan hal-hal kecil, mendengarkan ceritamu, dan mengingatkan kamu bahwa kamu layak mendapat banyak hal baik.\n\nSelamat ulang tahun, sayang. Hari ini milikmu. Semoga kamu selalu merasa dicintai — bukan cuma hari ini, tapi juga di hari-hari biasa yang sering terlupakan.`,
@@ -36,62 +36,62 @@ export const story = {
   ],
   photos: [
     {
-      src: "/src/public/photos/cover.jpg",
+      src: "/photos/cover.jpg",
       caption: "Little me, timeless memories",
       date: "01 / Little Moments",
     },
     {
-      src: "/src/public/photos/foto1.png",
+      src: "/photos/foto1.png",
       caption: "Sweet little moments",
       date: "02 / Little Moments",
     },
     {
-      src: "/src/public/photos/foto2.png",
+      src: "/photos/foto2.png",
       caption: "Growing up too fast",
       date: "03 / Little Moments",
     },
     {
-      src: "/src/public/photos/foto3.jpeg",
+      src: "/photos/foto3.jpeg",
       caption: "Sunshine and your smile",
       date: "04 / a good memory",
     },
     {
-      src: "/src/public/photos/foto4.jpeg",
+      src: "/photos/foto4.jpeg",
       caption: "In the middle of everywhere with you",
       date: "05 / keep this",
     },
     {
-      src: "/src/public/photos/foto5.jpeg",
+      src: "/photos/foto5.jpeg",
       caption: "Side by side, always",
       date: "06 / us",
     },
     {
-      src: "/src/public/photos/foto6.jpeg",
+      src: "/photos/foto6.jpeg",
       caption: "Chasing sunsets together",
       date: "07 / us",
     },
     {
-      src: "/src/public/photos/foto7.jpeg",
+      src: "/photos/foto7.jpeg",
       caption: "High above the world with you",
       date: "08 / us",
     },
     {
-      src: "/src/public/photos/foto11.jpg",
+      src: "/photos/foto11.jpg",
       caption: "My safe place",
       date: "09 / us",
     },
     {
-      src: "/src/public/photos/foto9.png",
+      src: "/photos/foto9.png",
       caption: "Wrapped in your arms",
       date: "10 / us",
     },
      {
-      src: "/src/public/photos/foto10.jpeg",
+      src: "/photos/foto10.jpeg",
       caption: "Creating our own world",
       date: "11 / us",
     },
      {
-      src: "/src/public/photos/foto12.jpg",
+      src: "/photos/foto12.jpg",
       caption: "and many more to come",
       date: "12 / to be continued",
     },
